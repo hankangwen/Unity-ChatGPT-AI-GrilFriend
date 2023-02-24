@@ -4,35 +4,19 @@
 使用chatGPT+unity+Azure+VRoid制作的简单的AI女友(老婆)对话机器人的demo。
 使用前须知：这个库只包含了demo的代码，而这个工程还需要导入几个拓展包，版权问题不适合放在我的仓库里。需要参考我这个demo的朋友，从仓库里的README文档里找到相关包的下载链接，下载导入到自己的工程文件里
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  下载VRoid模型导入unity的插件包，并导入到你的工程文件里
+插件包地址：https://github.com/vrm-c/UniVRM
+下载最新的release版本的插件，导入到你的工程文件里
+![输入图片说明](Vrm%20Plugin.png)
 
-#### 参与贡献
+2.  下载微软Azure语音合成，unity插件包
+打开微软Azure语音合成，关于SDK安装的说明：https://learn.microsoft.com/zh-cn/azure/cognitive-services/speech-service/quickstarts/setup-platform?pivots=programming-language-csharp&tabs=windows%2Cubuntu%2Cunity%2Cjre%2Cmaven%2Cnodejs%2Cmac%2Cpypi
+从中找到unity的SDK插件包，下载并导入到你的工程文件里
+![输入图片说明](72ZH@CKOL)YPY~3Y7))1$EJ.png)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+3.  下载本仓库提供的*.unitypackage文件，并导入到你的工程文件里
 
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
