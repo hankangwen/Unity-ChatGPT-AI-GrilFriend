@@ -15,8 +15,7 @@
 2.  下载微软Azure语音合成，unity插件包
 打开微软Azure语音合成，关于SDK安装的说明：https://learn.microsoft.com/zh-cn/azure/cognitive-services/speech-service/quickstarts/setup-platform?pivots=programming-language-csharp&tabs=windows%2Cubuntu%2Cunity%2Cjre%2Cmaven%2Cnodejs%2Cmac%2Cpypi
 从中找到unity的SDK插件包，下载并导入到你的工程文件里
-
-![输入图片说明](72ZH@CKOL)YPY~3Y7))1$EJ.png)
+![输入图片说明](image.png)
 
 
 
